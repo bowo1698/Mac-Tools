@@ -1,4 +1,4 @@
-# Mac-Tools
+# **Mac Tools**
 iTerm shortcuts for mac
 
 ultimate_downloader.sh
